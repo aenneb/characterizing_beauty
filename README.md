@@ -11,4 +11,4 @@ Raw data for all studies in .xlsx format. These include all memory descriptions.
 ### Data files for analyses
 Files used for analyses in addition to the raw data files. This includes .txt files containing non-excluded memory descriptions for text analysis.
 ### Analyses
-R scripts and Jupyter notebooks for all reported analyses and graphs
+R scripts and Jupyter notebooks for all reported analyses and graphs. Analysis files that are not already in notebook format are accompanied by an html file that includes all outputs.
