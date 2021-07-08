@@ -1,6 +1,7 @@
 # Characterizing beauty
-Data and analysis scripts for a set of experiments conducted by Aenne A. Brielmann, Angelica Nuzzo and Denis G. Pelli exploring what constitutes a beauty experience and people's general beliefs about beauty.
-Manuscript under revision. The preprint can be found [here](https://www.researchsquare.com/article/rs-103908/latest.pdf)
+Data and analysis scripts for the article:
+
+[Brielmann, A. A., Nuzzo, A., & Pelli, D. G. (2021). Beauty, the feeling. Acta Psychologica](https://authors.elsevier.com/sd/article/S0001-6918(21)00115-3)
 
 ## Folder structure
 ### Qualtrics surveys
